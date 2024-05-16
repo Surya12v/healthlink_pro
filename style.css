@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+}
+
+header{
+    height:90px;
+  }
+
+img{
+   height: 80px;
+   width: 400px;
+}
+
+main{
+    background-color: rgb(198, 195, 195);
+    height: 550px;
+}
+
+footer{
+    height: 80px;
+}
+
+div{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+   margin-top: 100px;     
+}
+
+#text{
+    border-radius: 10px;
+    padding: 25px;
+    width: 350px;
+    border:  white;
+    margin-left: -5%;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+    cursor: pointer;
+   
+    
+   
+}
+input[type=text]{
+    background-color: rgb(249, 252, 252);
+    margin-left:20%;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+}
+
+input[type=password]{
+    background-color: rgb(244, 247, 247);
+    margin-left:20%;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+}
+
+label{
+    margin-left:-10%;
+    font-size:larger;
+}
+
+#lab{
+    font-size: xx-large;
+    margin-left:20% ;
+}
+
+ #btn1{
+    width: 200px;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left:20%;
+    border: rgb(248, 246, 246);
+    margin-top: 20px;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+}
+
+ #btn2{
+    width: 400px;
+    border-radius:30px;
+    padding: 20px;
+    margin: 15px;
+    border: white;
+    font-size:large;
+    margin-left: 10%;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+ }
+
+#btn3{
+    width: 600px;
+    border-radius:15px;
+    padding: 30px;
+    margin: 10px;
+    margin-top:50px;
+    border: white;
+    font-size: x-large;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+    cursor: pointer;
+}
+
+.container{
+    margin-left: -50%;
+}
+
+#btn5{
+    width: 200px;
+    border-radius: 30px;
+    padding: 20px;
+    margin-left:40%;
+    border: white;
+    margin-top: 50px;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+}
+
+textarea{
+    width: 700px;
+    height: 300px;
+    border-radius: 10px;
+    margin: 10px;
+    border: white;
+    margin-left:5%;
+    margin-top: -20px;
+    box-shadow:0 8px 10px rgb(90, 87, 87);
+}
+
+
+#btn6{
+    width: 200px;
+    border-radius: 10px;
+    padding: 20px;
+  
+    border: white;
+    margin: 40px;
+    box-shadow: 0 8px 10px rgb(90, 87, 87);
+    
+}
+
